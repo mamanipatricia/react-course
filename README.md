@@ -24,4 +24,4 @@ You will also see any lint errors in the console.
 
 ## DEMO
 
-![DEMO](/src/gifDemo/firstAssignment.gif)
+![DEMO](/gifDemo/firstAssignment.gif)
